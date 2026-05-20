@@ -1,0 +1,16 @@
+# ─────────────────────────────────────────────
+#  FAQ Chatbot — Python Dependencies
+#  Install with: pip install -r requirements.txt
+# ─────────────────────────────────────────────
+
+# Natural Language Toolkit — tokenization, stop words
+nltk==3.9.1
+
+# Scikit-learn — TF-IDF vectorizer + cosine similarity
+scikit-learn==1.5.2
+
+# NumPy — required by scikit-learn (numerical arrays)
+numpy==1.26.4
+
+# Note: tkinter is built into Python — no installation needed.
+# Note: json, string are Python standard-library modules — no installation needed.
